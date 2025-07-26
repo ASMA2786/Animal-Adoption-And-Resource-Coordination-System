@@ -1,1 +1,1 @@
-# Animal-Adoption-And-Resource-Coordination-System
+A full stack web application built with Flask, SQLite, and Bootstrap to streamline animal adoption and resource management. Supports real time CRUD operations for animals, adopters, and payment workflows with a user friendly interface. Helps shelters and NGOs efficiently manage 100+ records and reduce manual effort through digital tracking.
